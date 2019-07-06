@@ -5,8 +5,8 @@
 replicaCount: 1
 
 image:
-  repository: prakashuit/flux-check
-  tag: v2
+  repository: prakashuit/docker-hw
+  tag: v1
   pullPolicy: Always
 
 nameOverride: ""
